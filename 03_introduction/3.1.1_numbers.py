@@ -1,8 +1,6 @@
 import sys
 import traceback
 
-# Reference: https://docs.python.org/3/tutorial/introduction.html
-
 # 3. An Informal Introduction to Python
 
 print("3. An Informal Introduction to Python")
@@ -15,6 +13,8 @@ text = "This is not a comment because it's inside quotes."
 ## 3.1 Using Python as a Calculator
 
 ### 3.1.1. Numbers
+
+# Reference: https://docs.python.org/3/tutorial/introduction.html#numbers
 
 print("3.1.1. Numbers")
 
