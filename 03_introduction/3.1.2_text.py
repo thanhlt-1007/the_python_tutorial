@@ -1,6 +1,6 @@
 ### 3.1.2. Text
 
-# Reference: https://docs.python.org/3/tutorial/introduction.html#text
+# Reference: https://docs.python.org/3.12/tutorial/introduction.html#text
 
 """
 Python can manipulate text (represent by type str, so-called "strings") as well as numbers.

@@ -1,6 +1,6 @@
 ## 4.4. break and continue Statements, and else Clauses on Loops
 
-# Reference: https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
+# Reference: https://docs.python.org/3.12/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
 
 """
 The break statement breaks out of the innermost enclosing for or while loop.

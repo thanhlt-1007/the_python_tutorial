@@ -1,6 +1,6 @@
 ## 4.3. The range() Function
 
-# Reference: https://docs.python.org/3/tutorial/controlflow.html#the-range-function
+# Reference: https://docs.python.org/3.12/tutorial/controlflow.html#the-range-function
 
 """
 If you do need to iterate over a sequence of numbers,

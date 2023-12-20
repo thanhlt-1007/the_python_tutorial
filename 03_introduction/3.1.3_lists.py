@@ -1,6 +1,6 @@
 ### 3.1.2. Lists
 
-# Reference: https://docs.python.org/3/tutorial/introduction.html#lists
+# Reference: https://docs.python.org/3.12/tutorial/introduction.html#lists
 
 """
 Python knows a number of compound data types,

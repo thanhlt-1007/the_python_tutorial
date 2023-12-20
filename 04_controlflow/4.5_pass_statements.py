@@ -1,6 +1,6 @@
 ## 4.5. pass Statements
 
-# Reference: https://docs.python.org/3/tutorial/controlflow.html#pass-statements
+# Reference: https://docs.python.org/3.12/tutorial/controlflow.html#pass-statements
 
 """
 The pass statement does nothing.
