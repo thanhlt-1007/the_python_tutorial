@@ -1,4 +1,4 @@
-## 4.2. The range() Function
+## 4.3. The range() Function
 
 # Reference: https://docs.python.org/3/tutorial/controlflow.html#the-range-function
 
