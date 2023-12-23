@@ -1,4 +1,4 @@
-# Reference: https://docs.python.org/3/tutorial/interpreter.html
+# Reference: https://docs.python.org/3.12/tutorial/interpreter.html
 
 # 2. Using the Python Interpreter
 

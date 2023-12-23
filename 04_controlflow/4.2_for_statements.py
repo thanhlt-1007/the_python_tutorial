@@ -1,6 +1,6 @@
 ## 4.2. for Statements
 
-# Reference: https://docs.python.org/3/tutorial/controlflow.html#for-statements
+# Reference: https://docs.python.org/3.12/tutorial/controlflow.html#for-statements
 
 """
 The for statement in Python differs a bit from what you may be used to in C or Pascal.

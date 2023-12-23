@@ -2,7 +2,7 @@
 
 ## 4.1. if Statements
 
-# Reference: https://docs.python.org/3/tutorial/controlflow.html#if-statements
+# Reference: https://docs.python.org/3.12/tutorial/controlflow.html#if-statements
 
 """
 Perhaps the most well-known statement tyoe is the if statement.
