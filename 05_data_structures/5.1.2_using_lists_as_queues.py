@@ -1,6 +1,6 @@
 from collections import deque
 
-### 5.1.1. Using Lists as Queues
+### 5.1.2. Using Lists as Queues
 
 # Reference: https://docs.python.org/3.12/tutorial/datastructures.html#using-lists-as-queues
 
