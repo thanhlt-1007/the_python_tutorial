@@ -1,4 +1,4 @@
-## 5.4. Dictionaries
+## 5.5. Dictionaries
 
 # Reference: https://docs.python.org/3.12/tutorial/datastructures.html#dictionaries
 
